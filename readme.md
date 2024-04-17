@@ -23,7 +23,3 @@ The plugin integrates a simple form via shortcode.
  1. install the plugin
  2.Paste this shortcode: [magicform_shortcode]
  
-
-## Screenshots
-
-
