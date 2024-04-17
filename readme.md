@@ -1,4 +1,4 @@
-# User Switching
+# Form-Test-Plugin
 
 Stable tag: 1.0   
 License: GPL v2 or later  

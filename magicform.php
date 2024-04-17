@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Magicform
-Plugin URI: https://medienwerke.de
+Plugin URI: https://github.com/medienwerke/magicform
 Description: Ein kleines Test-Plugin für Formulare
 Version: 1.0
 Author: Daniel Koch
