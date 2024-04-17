@@ -1,0 +1,52 @@
+.mf-form {
+    min-width: 300px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mf-form-group {
+    width: 100%;
+}
+
+.mf-form-control {
+    width: calc(100% - 18px);
+    padding-block: 0;
+    padding-inline: 0;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #aaa;
+    border-radius: 2px;
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+}
+.mf-form-group textarea {
+    resize: vertical;
+}
+
+input[type=text]:focus {
+    border: 1px solid rgba(0, 128, 255, 0.5);
+}
+
+.mf-submit-btn {
+    width: 100%;
+    padding: 12px;
+    color: white;
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+    background-color: rgba(0, 128, 255, 0.5);
+    border: none;
+    border-radius: 2px;
+    font-size: 14px;
+
+}
+
+.mf-submit-btn:hover {
+    background-color: rgba(0, 128, 255, 0.3);
+    cursor: pointer;
+}
+
+.notice  {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
