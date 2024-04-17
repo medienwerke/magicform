@@ -20,6 +20,6 @@ The plugin integrates a simple form via shortcode.
 
 ### Usage
 
- 1. install the plugin
- 2.Paste this shortcode: [magicform_shortcode]
+1. install the plugin
+2. 2. Paste this shortcode: [magicform_shortcode]
  
